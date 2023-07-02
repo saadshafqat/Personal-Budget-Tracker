@@ -22,7 +22,7 @@ Safeguard your sensitive financial information with state-of-the-art fingerprint
 
 ![ScreenShot_1](https://firebasestorage.googleapis.com/v0/b/child-c2371.appspot.com/o/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png?alt=media&token=1aec9e02-c1a1-4283-8416-85eaeee9db5e)
 
-![ScreenShot_2](https://firebasestorage.googleapis.com/v0/b/child-c2371.appspot.com/o/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%203.png?alt=media&token=7beb5b78-8d97-4c5a-92aa-8c9bd2bfeeb3)
+![ScreenShot_2](https://firebasestorage.googleapis.com/v0/b/child-c2371.appspot.com/o/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%202.png?alt=media&token=3954261e-d2f2-435b-9fd4-1bf8332baa50)
 
 ![ScreenShot_3](https://firebasestorage.googleapis.com/v0/b/child-c2371.appspot.com/o/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%203.png?alt=media&token=7beb5b78-8d97-4c5a-92aa-8c9bd2bfeeb3)
 
