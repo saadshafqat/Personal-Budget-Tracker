@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="?attr/cardSecond"
+    app:strokeWidth="1dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    app:strokeColor="@color/teal_700"
+    android:layout_marginBottom="10dp"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/parent_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/psllight"
+            android:text="01 October 2022"
+            android:textColor="?colorPrimary"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_below="@id/parent_date"
+            android:gravity="center"
+            android:id="@+id/headings"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginRight="10dp"
+                android:textColor="?colorPrimary"
+                android:fontFamily="@font/psllight"
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:layout_height="wrap_content"
+                android:text="Income (Credit)"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="?colorPrimary"
+                android:textSize="16dp"
+                android:layout_marginLeft="10dp"
+                android:fontFamily="@font/psllight"
+                android:textStyle="bold"
+                android:text="Expense (Debit)"/>
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/childMonthlyRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/headings"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp" />
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/txt_incomeSum"
+            android:layout_below="@id/childMonthlyRecyclerView"
+            android:fontFamily="@font/psllight"
+            android:layout_marginLeft="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textColor="@color/teal_700"
+            app:layout_constraintTop_toTopOf="parent" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/txt_expenseSum"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/childMonthlyRecyclerView"
+            android:fontFamily="@font/psllight"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/cadRed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_expenseSum"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/balanceMonthly"
+            android:fontFamily="@font/psllight"
+            android:text="Balance: "
+            android:textColor="?colorPrimary"
+            android:textSize="16dp" />
+
+
+
+
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

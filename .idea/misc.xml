@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/drawable/roundedbutton.xml" value="0.1" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_edit_profile.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_graph.xml" value="0.18" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_on_boarding.xml" value="0.15" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_pdfviewer.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_search.xml" value="0.16" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/activity_settings.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/fragment_daily.xml" value="0.33" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/fragment_monthly.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/fragment_note.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/fragment_yearly.xml" value="0.25" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_addnote.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_addtransaction.xml" value="0.2" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_childmonthly.xml" value="0.18" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_currency.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_date.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_dateformats.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_income.xml" value="0.22" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_notes.xml" value="0.25" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_options.xml" value="0.11907090464547677" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_parentmonthly.xml" value="0.25" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_search.xml" value="0.33" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_text.xml" value="0.13671875" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_theme.xml" value="0.14957264957264957" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/item_yearly.xml" value="0.33" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/layout_currency.xml" value="0.42543859649122806" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/tab1.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/layout/theme_layot.xml" value="0.14957264957264957" />
+        <entry key="..\:/Users/SaadShafqat/AndroidStudioProjects/DaytoDayExpenses/app/src/main/res/menu/main_menu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

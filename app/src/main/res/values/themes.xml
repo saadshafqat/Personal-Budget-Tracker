@@ -1,0 +1,62 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DayToDayExpenses" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryteal</item>
+        <item name="colorPrimaryVariant">@color/statusTeal</item>
+        <item name="colorOnPrimary">@color/coloronPrimary</item>
+        <item name="textcolor2">@color/black</item>
+
+
+        <item name="colorSecondary">@color/cardTeal</item>
+        <item name="colorSecondaryVariant">@color/secondCard</item>
+        <item name="cardSecond">@color/secondCard</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.NEON" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_200</item>
+        <item name="colorOnPrimary">@color/purple_200</item>
+
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorSecondaryVariant">@color/purple_200</item>
+        <item name="colorOnSecondary">@color/purple_200</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/purple_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ToolBarStyle" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">?colorOnPrimary</item>
+        <item name="android:textColorSecondary">?colorOnPrimary</item>
+        <item name="actionMenuTextColor">?colorOnPrimary</item>
+        <item name="iconTint">?colorOnPrimary</item>
+
+
+    </style>
+
+    <style name="AppTabLayout" parent="Widget.Design.TabLayout">
+
+        <item name="tabPaddingStart">6dp</item>
+        <item name="tabPaddingEnd">6dp</item>
+        <item name="tabTextAppearance">@style/AppTabTextAppearance</item>
+        <item name="tabIconTint">?attr/colorOnPrimary</item>
+        <item name="itemIconSize">2dp</item>
+
+        <item name="tabSelectedTextColor">?attr/colorOnPrimary</item>
+    </style>
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?colorOnPrimary</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+</resources>

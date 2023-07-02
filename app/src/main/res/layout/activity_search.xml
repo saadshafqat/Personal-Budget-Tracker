@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SearchActivity">
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            app:theme="@style/ToolBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            >
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Search"
+                android:fontFamily="@font/psllight"
+                android:id="@+id/searchView"
+                android:textSize="18dp"
+                android:textColor="?colorOnPrimary"
+                android:textColorHint="?colorOnPrimary"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+
+        </com.google.android.material.appbar.MaterialToolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/searchRecyclerView"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_search"
+        android:layout_below="@id/bar_layout"/>
+
+
+</RelativeLayout>

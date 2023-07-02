@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: es.voghdev.pdfviewpager:library:1.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8b65c25a9626d89dfb1fadf238aeb116/transformed/library-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b65c25a9626d89dfb1fadf238aeb116/transformed/library-1.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b65c25a9626d89dfb1fadf238aeb116/transformed/library-1.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/es.voghdev.pdfviewpager/library/1.1.2/359c0b8a5cb107c862fe5150b014ce8ff1efa65c/library-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/es.voghdev.pdfviewpager/library/1.1.2/3a501d0a01b724ca9e188085c181e00ec867b524/library-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

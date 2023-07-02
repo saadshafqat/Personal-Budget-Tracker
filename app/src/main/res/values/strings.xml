@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Personal Budget Tracker</string>
+    <string name="title">Welcome to\nPersonal Budget Tracker</string>
+    <string name="currency">Currency</string>
+    <string name="currency_INR">INR - Indian Rupee</string>
+    <string name="profile_value">Edit the default profile!</string>
+    <string name="txt_profile">Profile lets you manage your money inflows and\noutflows among multiple accounts.\nThis is default profile created to track your personal\nexpenses. Customize this profile as per your needs.</string>
+    <string name="tip">Tip: You can create more profiles later for managing\nprofessional or non-personal finance. Check \'Profiles\nand Accounts\' under settings</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profile_purpose">Profile Purpose</string>
+    <string name="personal">Personal</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="this_profile_is_used_to_manage_my_npersonal_expenses">This profile is used to manage my\npersonal expenses</string>
+    <string name="each_profile_can_have">Each profile can have multiple accounts.\nThis is default account for default profile.\nCustomize this account as per your needs.</string>
+    <string name="tip_you_can_create_an_account_for_each_of_your_bank">Tip: You can create an account for each of your bank\naccounts, credits cards, e-wallet, meal coupon cards,\ncash and so on.</string>
+    <string name="note_in_case_if_you_want_to_identify">Note: In case if you want to identify an account using\nsensitive information like account number, partially hide\nthem (For example: xxx123).</string>
+    <string name="account_identification">Account Identification</string>
+    <string name="primary_account">Primary Account</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="primary_bank">Primary Bank</string>
+    <string name="opening_balance">Opening Balance</string>
+    <string name="account_colour">Account Colour</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_income_credit">Total Income (Credit)</string>
+    <string name="tap_on_to_add_new_item_and_long_press_to_edit">Tap on \'+\' to add new item and long press to edit</string>
+    <string name="total_expense_debit">Total Expense (Debit)</string>
+</resources>
