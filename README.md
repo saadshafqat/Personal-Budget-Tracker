@@ -17,3 +17,9 @@ Leverage powerful tools such as interactive graphs and charts to visualize and a
 Generate comprehensive reports in PDF format to meticulously review your financial progress. Share these reports with financial advisors, accountants, or simply keep them for your personal records, aiding in strategic financial planning.
 ### Fortified Security:
 Safeguard your sensitive financial information with state-of-the-art fingerprint security features. Rest easy, knowing that unauthorized access is prohibited, ensuring the utmost privacy and protection.
+
+![ScreenShot_0](https://firebasestorage.googleapis.com/v0/b/child-c2371.appspot.com/o/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?alt=media&token=75b2e920-5082-4e4d-9aea-9167ce88f335)
+
+
+
+
